@@ -187,14 +187,6 @@ header {
     }
 }
 
-.text {
-    position: fixed;
-    left: 10px;
-    bottom: 20px;
-    font-size: 30px;
-    background-color: rgb(236, 236, 236);
-}
-
 .cancel {
     border: none;
     background-color: white;
