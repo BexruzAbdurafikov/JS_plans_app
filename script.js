@@ -24,8 +24,10 @@ x.onclick = () => {
 }
 
 const tasks = [
-    { id: 1, title: 'asdf', isDone: false, date: 'sdaf' },
-    { id: 2, title: 'asdf', isDone: false, date: 'sdaf' }
+    { id: 1, title: '', isDone: false, date: '' },
+    { id: 2, title: '', isDone: false, date: '' },
+    { id: 3, title: '', isDone: false, date: '' },
+    { id: 4, title: '', isDone: false, date: '' },
 ]
 
 function reload(arr) {
