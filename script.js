@@ -22,3 +22,12 @@ x.onclick = () => {
     close()
 }
 
+const tasks = [
+    {id: 1, title: '', isDone: false, date: ''}
+]
+
+function reload(arr) {
+    const task = document.createElement('div')
+    const 
+}
+reload()
